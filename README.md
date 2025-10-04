@@ -29,7 +29,7 @@ It is built with **HTML**, **CSS**, **Bootstrap 5**, and **Bootstrap Icons** for
 - **Bootstrap 5** for responsive design.
 - **Bootstrap Icons** for navbar icons.
 - **GitHub** for version control and deployment.
-- **ChatGPT** for guidance and code snippets.
+- **ChatGPT** for guidance.
 - **Browser** for testing responsiveness.
 
 ## Challenges Faced
